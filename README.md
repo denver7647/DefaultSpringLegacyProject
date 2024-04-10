@@ -1,0 +1,1 @@
+java17버전 maven버전의 SpringLegacyProject입니다.
